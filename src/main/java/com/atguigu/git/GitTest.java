@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("If not now,when?");
         System.out.println("If opportunities are presented to you");
         System.out.println("Push test");
+        System.out.println("Pull request test");
     }
 }
