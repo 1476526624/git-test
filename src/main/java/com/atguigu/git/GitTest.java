@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("hello GitHub");
         System.out.println("hello World");
         System.out.println("If not me,who?");
+        System.out.println("If not now,when?");
         System.out.println("If opportunities are presented to you");
     }
 }
